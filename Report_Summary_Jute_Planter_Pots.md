@@ -22,7 +22,8 @@ Detailed assumptions and calculations are documented in the individual ASIN repo
 
 | Product | Preview | Anchor Monthly Units | Monthly Net Revenue (USD) | Max COGS @40% (USD) | Product Link |
 |-------|--------|----------------------|---------------------------|--------------------|-------------|
-| **B07V7BZZ1Q** | ![Product](https://images-na.ssl-images-amazon.com/images/I/71kQ8WcV7WL._AC_SL1500_.jpg) | ~300 | ~$10,000 | ~$5.20 | https://www.amazon.com/dp/B07V7BZZ1Q |
+| **B07V7BZZ1Q** |![1](https://github.com/user-attachments/assets/721bbbbd-7d3d-4b7f-9046-6e5e33b8fc8a)
+ | ~300 | ~$10,000 | ~$5.20 | https://www.amazon.com/dp/B07V7BZZ1Q |
 | **B07GSYN62L** | ![Product](https://images-na.ssl-images-amazon.com/images/I/71ZKz0n4yJL._AC_SL1500_.jpg) | ~220 | ~$7,000 | ~$4.60 | https://www.amazon.com/dp/B07GSYN62L |
 | **B0F1YBCD3S** | ![Product](https://images-na.ssl-images-amazon.com/images/I/71wG5n7N2pL._AC_SL1500_.jpg) | ~180 | ~$6,000 | ~$4.10 | https://www.amazon.com/dp/B0F1YBCD3S |
 
